@@ -13,10 +13,11 @@ These issues have been documented at least in Issues #104, #99, #36 and #33.
 
 After quite a bit of trial and error, the following steps/script works for installing packages and is able to run through the example dataset.
 
-**OS**: Ubuntu 22.04.4 LTS  
-**Nvidia Driver**: 550.54.15  
-**CUDA**: 12.4  
-**Prerequisite**: conda  
+### Developed and tested on
+**OS**: Ubuntu 22.04.4 LTS
+**Nvidia Driver**: 550.54.15
+**CUDA**: 12.4
+**conda**: 24.3.0
 
 This shell script takes care of dependencies in [RF2na-linux.yml](https://github.com/uw-ipd/RoseTTAFold2NA/blob/main/RF2na-linux.yml) and [SE3Transformer/requirements.txt](https://github.com/uw-ipd/RoseTTAFold2NA/blob/main/SE3Transformer/requirements.txt)
 
