@@ -23,6 +23,8 @@ This shell script takes care of dependencies in [RF2na-linux.yml](https://github
 After cloning the RoseTTAFold2NA repository, place the below shell script in the `RoseTTAFold2NA` directory.  
 Execute as `$ source create_env.sh`
 
+All needed packages are installed, skip additional steps for SE3Transformer.
+
 Download the above `create_env.sh` script.
 
 Also documented are the conda YAML (use not recommended) and conda table of packages.
