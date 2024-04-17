@@ -25,7 +25,7 @@ Execute as `$ source create_env.sh`
 
 Download the above `create_env.sh` script.
 
-Also including the conda YAML (use not recommended) and conda table of packages.
+Also documented are the conda YAML (use not recommended) and conda table of packages.
 
 Hope this is helpful!
 
