@@ -1,7 +1,7 @@
 # rf2na-packages
 Script to solve the package dependency issues for [RoseTTAFold2NA](https://github.com/uw-ipd/RoseTTAFold2NA).
 
-The `main` branch has many issues with unmet package dependencies, some examples below
+As of 2024-04-17, the `main` branch has many issues with unmet package dependencies, some examples below
 
 `NVTX functions not installed`
 
