@@ -9,7 +9,7 @@ As of 2024-04-17, the `main` branch has many issues with unmet package dependenc
 
 Missing packages such as `torchdata`, `pandas` and `pydantic` 
 
-These issues have been documented at least in Issues #104, #99, #36 and #33.
+These issues have been documented at least in Issues #104, #99, #94, #93, #37, #36 and #33.
 
 After quite a bit of trial and error, the following steps/script works for installing packages and is able to run through the example dataset.  
   
