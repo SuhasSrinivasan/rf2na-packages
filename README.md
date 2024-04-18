@@ -30,7 +30,7 @@ All needed packages are installed, skip additional steps for SE3Transformer.
 
 Download the above `create_env.sh` script.
 
-Also documented are the conda YAML (use not recommended) and conda table of packages.
+Also documented are the conda YAML (not tested) and conda table of packages.
 
 Hope this is helpful!
 
