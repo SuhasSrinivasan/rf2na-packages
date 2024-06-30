@@ -32,7 +32,14 @@ Download the above `create_env.sh` script.
 
 Also documented are the conda YAML (not tested) and conda table of packages.
 
-Hope this is helpful!
+Hope this is helpful!   
+
+---   
+
+Created a Databases file to download them in parallel, since some of them can be a slow download and take several days.
+The below command spawns 4 wget processes, and each process handles one file download, logging is quieted.
+
+`cat databases.txt | xargs -n 1 -P 4 wget -q`
 
 
  
